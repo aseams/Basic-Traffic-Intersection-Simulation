@@ -24,6 +24,15 @@
 Find a step-by-step guide to build this simulation [here](https://towardsdatascience.com/traffic-intersection-simulation-using-pygame-689d6bd7687a).
 
 ------------------------------------------
+### TODO
+
+- [x] Fork Repository
+- [ ] Add better comments
+- [ ] Create additional simulation patterns
+  - [ ] Three-way Intersection
+  - [ ] Roundabout
+  - [ ] Reckless Driving
+------------------------------------------
 ### Demo
 
 The video below shows the final output of the simulation.
@@ -57,7 +66,7 @@ The video below shows the final output of the simulation.
 ```
 
 ------------------------------------------
-### Author
+### Original Author
 
 Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
 
